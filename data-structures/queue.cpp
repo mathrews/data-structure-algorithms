@@ -1,7 +1,3 @@
-/*
- * Implementation of a simple queue data structure in C++
- */
-
 #include <iostream>
 #include <deque>
 
